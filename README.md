@@ -13,7 +13,6 @@ Ce projet consiste à créer un environnement de bases de données distribuées 
 5. Gérer la connectivité réseau entre machines virtuelles
 6. Intégrer des sources de données hétérogènes (SQL Server, Oracle, DB2, PostgreSQL)
 
----![Uploading image.png…]()
 
 
 ## 🏗️ Architecture Technique
